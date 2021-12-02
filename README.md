@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RuchiBadkur
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on beginer level web development projects.
+- 💞️ I’m looking to collaborate on beginner level web development projects.
 - 📫 Reach me through my email badkur622ruchi@gmail.com.
 
 <!---
