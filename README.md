@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on beginner level web development projects.
-- 📫 Reach me through my email badkur622ruchi@gmail.com.
+- 📫 Reach me through my email badkurruchii@gmail.com.
 
 <!---
 RuchiBadkur/RuchiBadkur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
