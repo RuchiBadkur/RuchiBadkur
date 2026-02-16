@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RuchiBadkur
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on web development projects.
+- 🌱 I’m currently learning Java Backend development
+- 💞️ I’m looking to collaborate on backend development projects.
 - 📫 Reach me through my email badkurruchii@gmail.com.
 
 <!---
